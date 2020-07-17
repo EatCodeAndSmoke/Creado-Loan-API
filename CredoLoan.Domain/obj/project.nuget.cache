@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejIdiD4T7VjnxWBmOwQD4iraojlpsfc5Rcf0eQjpSL+/N+eRNwS6ll39NU38F2mfgPfBMJANIV/gYbIokI3nfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tengo\\source\\repos\\CredoLoan\\CredoLoan.Domain\\CredoLoan.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

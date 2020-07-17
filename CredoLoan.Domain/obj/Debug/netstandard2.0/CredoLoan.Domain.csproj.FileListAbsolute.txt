@@ -1,0 +1,9 @@
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\bin\Debug\netstandard2.0\CredoLoan.Domain.deps.json
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\bin\Debug\netstandard2.0\CredoLoan.Domain.dll
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\bin\Debug\netstandard2.0\CredoLoan.Domain.pdb
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\obj\Debug\netstandard2.0\CredoLoan.Domain.csprojAssemblyReference.cache
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\obj\Debug\netstandard2.0\CredoLoan.Domain.AssemblyInfoInputs.cache
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\obj\Debug\netstandard2.0\CredoLoan.Domain.AssemblyInfo.cs
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\obj\Debug\netstandard2.0\CredoLoan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\obj\Debug\netstandard2.0\CredoLoan.Domain.dll
+C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Domain\obj\Debug\netstandard2.0\CredoLoan.Domain.pdb

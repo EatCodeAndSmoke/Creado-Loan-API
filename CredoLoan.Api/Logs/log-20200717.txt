@@ -1,0 +1,5 @@
+2020-07-17T15:59:47.8484941+04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-07-17T15:59:47.8629218+04:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-07-17T15:59:47.8646562+04:00  [INF] Content root path: "C:\Users\Tengo\source\repos\CredoLoan\CredoLoan.Api" (b5d60022)
+2020-07-17T15:59:48.0698055+04:00 80000024-0003-fe00-b63f-84710c7967bb [INF] {"TraceIdentifier":"80000024-0003-fe00-b63f-84710c7967bb","reqStr":"{\"Scheme\":\"https\",\"Url\":\"localhost:44367/\",\"Method\":\"GET\",\"Body\":\"\"}","respStr":""} (afaa9dca)
+2020-07-17T15:59:50.9194535+04:00 800000a0-0004-fb00-b63f-84710c7967bb [INF] {"TraceIdentifier":"800000a0-0004-fb00-b63f-84710c7967bb","reqStr":"{\"Scheme\":\"https\",\"Url\":\"localhost:44367/api/clients/register\",\"Method\":\"POST\",\"Body\":\"{\\r\\n    \\\"FirstName\\\": \\\"Tengiz\\\",\\r\\n    \\\"LastName\\\": \\\"Tekturmanidze\\\",\\r\\n    \\\"PersonalId\\\": \\\"01001094489\\\",\\r\\n    \\\"DateOfBirth\\\": \\\"1994-01-28\\\",\\r\\n    \\\"Password\\\": \\\"Paroliaris12\\\"\\r\\n}\\r\\n\"}","respStr":""} (3c030f79)
